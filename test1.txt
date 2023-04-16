@@ -1,4 +1,5 @@
 abc-- changes made to the merge diff change to existing line
 git diff new line
-3rdchange
+3rdchangeadd
+4th
 
